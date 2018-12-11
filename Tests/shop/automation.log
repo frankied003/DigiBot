@@ -1,0 +1,23 @@
+12/11/2018 01:12:48 PM - CheckoutPage - INFO: Element not found with locator: g-recaptcha and locator type: id
+12/11/2018 01:12:48 PM - CheckoutPage - INFO: Element not present with locator: g-recaptcha locatorType: id
+12/11/2018 01:12:48 PM - CheckoutPage - INFO: Element found with locator: checkout_email and locator type: id
+12/11/2018 01:12:49 PM - CheckoutPage - INFO: Sent data on element with locator: checkout_email locatorType: id
+12/11/2018 01:12:49 PM - CheckoutPage - INFO: Element found with locator: checkout_shipping_address_first_name and locator type: id
+12/11/2018 01:12:49 PM - CheckoutPage - INFO: Sent data on element with locator: checkout_shipping_address_first_name locatorType: id
+12/11/2018 01:12:49 PM - CheckoutPage - INFO: Element found with locator: checkout_shipping_address_last_name and locator type: id
+12/11/2018 01:12:49 PM - CheckoutPage - INFO: Sent data on element with locator: checkout_shipping_address_last_name locatorType: id
+12/11/2018 01:12:49 PM - CheckoutPage - INFO: Element found with locator: checkout_shipping_address_address1 and locator type: id
+12/11/2018 01:12:49 PM - CheckoutPage - INFO: Sent data on element with locator: checkout_shipping_address_address1 locatorType: id
+12/11/2018 01:12:49 PM - CheckoutPage - INFO: Element found with locator: step__footer__previous-link-content and locator type: class
+12/11/2018 01:12:49 PM - CheckoutPage - INFO: Element found with locator: checkout_shipping_address_address2 and locator type: id
+12/11/2018 01:12:49 PM - CheckoutPage - INFO: Sent data on element with locator: checkout_shipping_address_address2 locatorType: id
+12/11/2018 01:12:49 PM - CheckoutPage - INFO: Element found with locator: checkout_shipping_address_city and locator type: id
+12/11/2018 01:12:49 PM - CheckoutPage - INFO: Sent data on element with locator: checkout_shipping_address_city locatorType: id
+12/11/2018 01:12:49 PM - CheckoutPage - INFO: Element found with locator: checkout_shipping_address_zip and locator type: id
+12/11/2018 01:12:50 PM - CheckoutPage - INFO: Sent data on element with locator: checkout_shipping_address_zip locatorType: id
+12/11/2018 01:12:50 PM - CheckoutPage - INFO: Element found with locator: checkout_shipping_address_phone and locator type: id
+12/11/2018 01:12:50 PM - CheckoutPage - INFO: Sent data on element with locator: checkout_shipping_address_phone locatorType: id
+12/11/2018 01:12:50 PM - CheckoutPage - INFO: Element found with locator: icon-svg--spinner-button and locator type: class
+12/11/2018 01:12:51 PM - CheckoutPage - INFO: Clicked on element with locator: icon-svg--spinner-button locatorType: class
+12/11/2018 01:12:51 PM - CheckoutPage - INFO: Element found with locator: icon-svg--spinner-button and locator type: class
+12/11/2018 01:12:53 PM - CheckoutPage - INFO: Clicked on element with locator: icon-svg--spinner-button locatorType: class

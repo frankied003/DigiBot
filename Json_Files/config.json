@@ -1,0 +1,21 @@
+{
+    "store": "packershoes",
+    "keywords": ["PHARRELL", "V2"],
+    "size": "9",
+    "monitorDelay": 3,
+    "email": "fdigiaco@stevens.edu",
+    "firstName": "Frank",
+    "lastName": "DiGiacomo",
+    "streetAddress": "111 test lane",
+    "apartmentNumber": " ",
+    "state": "New York",
+    "city": "Carmel",
+    "zipCode": "10512",
+    "phoneNumber": "9141231234",
+    "nameOnCard": "Frank DiGiacomo",
+    "cardNumber": "1234123412341234",
+    "expMonth": "08",
+    "expYear": "22",
+    "cvv": "123",
+    "headlessBrowser": "true"
+}
