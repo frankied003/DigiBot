@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9b4e833-d61e-407d-ad0b-d319d502e7fa" name="Default Changelist" comment="" />
+    <list default="true" id="e9b4e833-d61e-407d-ad0b-d319d502e7fa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Json_Files/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/Json_Files/config.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,15 +14,15 @@
     <session id="1577828389">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="57" />
+          <entry key="project.closed" value="58" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="9" />
+          <entry key="project.open.time.5" value="10" />
           <entry key="project.open.time.6" value="26" />
           <entry key="project.open.time.7" value="13" />
           <entry key="project.open.time.8" value="5" />
-          <entry key="project.opened" value="57" />
+          <entry key="project.opened" value="58" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -44,7 +46,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="67" />
-          <entry key="json" value="1562" />
+          <entry key="json" value="1564" />
           <entry key="py" value="24085" />
           <entry key="txt" value="49" />
         </counts>
@@ -52,7 +54,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="67" />
-          <entry key="JSON" value="1562" />
+          <entry key="JSON" value="1564" />
           <entry key="PLAIN_TEXT" value="49" />
           <entry key="Python" value="24085" />
         </counts>
@@ -64,8 +66,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Base/selenium_driver.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-806">
-              <caret line="156" column="11" lean-forward="true" selection-start-line="156" selection-start-column="11" selection-end-line="156" selection-end-column="11" />
+            <state relative-caret-position="2465">
+              <caret line="156" column="11" selection-start-line="156" selection-start-column="11" selection-end-line="156" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -85,8 +87,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Pages/shop/new_page_two.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="425">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
@@ -94,8 +96,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Pages/shop/product_page.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-11">
-              <caret line="55" column="45" lean-forward="true" selection-start-line="55" selection-start-column="45" selection-end-line="55" selection-end-column="45" />
+            <state relative-caret-position="867">
+              <caret line="55" column="45" selection-start-line="55" selection-start-column="45" selection-end-line="55" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -103,7 +105,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Pages/shop/checkout_page.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-391">
+            <state relative-caret-position="1258">
               <caret line="82" column="95" selection-start-line="82" selection-start-column="95" selection-end-line="82" selection-end-column="95" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
@@ -119,8 +121,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tests/shop/new_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="36" column="44" lean-forward="true" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+            <state relative-caret-position="493">
+              <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
               <folding>
                 <element signature="e#46#93#0" expanded="true" />
                 <marker date="1544633841453" expanded="true" signature="807:1058" ph="..." />
@@ -151,8 +153,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Json_Files/config.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+            <state relative-caret-position="255">
+              <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -221,7 +223,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="785" />
-    <option name="y" value="-24" />
+    <option name="y" value="-25" />
     <option name="width" value="980" />
     <option name="height" value="990" />
   </component>
@@ -586,6 +588,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Base/selenium_driver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2465">
+          <caret line="156" column="11" selection-start-line="156" selection-start-column="11" selection-end-line="156" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Base/webdriverfactory.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
@@ -596,49 +605,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Captcha/Server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" column="59" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Base/selenium_driver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-806">
-          <caret line="156" column="11" lean-forward="true" selection-start-line="156" selection-start-column="11" selection-end-line="156" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Pages/shop/new_page_two.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tests/shop/new_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="36" column="44" lean-forward="true" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
-          <folding>
-            <element signature="e#46#93#0" expanded="true" />
-            <marker date="1544633841453" expanded="true" signature="807:1058" ph="..." />
-            <marker date="1544633841453" expanded="true" signature="1053:1058" ph="..." />
-          </folding>
+        <state relative-caret-position="425">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Pages/shop/product_page.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11">
-          <caret line="55" column="45" lean-forward="true" selection-start-line="55" selection-start-column="45" selection-end-line="55" selection-end-column="45" />
+        <state relative-caret-position="867">
+          <caret line="55" column="45" selection-start-line="55" selection-start-column="45" selection-end-line="55" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Pages/shop/checkout_page.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-391">
+        <state relative-caret-position="1258">
           <caret line="82" column="95" selection-start-line="82" selection-start-column="95" selection-end-line="82" selection-end-column="95" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
@@ -650,6 +633,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/shop/new_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+          <folding>
+            <element signature="e#46#93#0" expanded="true" />
+            <marker date="1544633841453" expanded="true" signature="807:1058" ph="..." />
+            <marker date="1544633841453" expanded="true" signature="1053:1058" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Captcha/Harvester.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -657,10 +652,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Captcha/Server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="59" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Json_Files/config.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        <state relative-caret-position="255">
+          <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
         </state>
       </provider>
     </entry>
