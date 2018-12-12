@@ -17,3 +17,8 @@ the product, adding it to cart, then checking out. The names of the files aren't
 Tests Folder - This is what file I run to run the entire code: new_test.py is the main file to run.
 
 Utilities Folder - This is where all the logs and debugging happens to make speed up problem solving.
+
+To Run:
+I simply navigate to the folder where the new_test.py file is and type into the terminal
+  
+  py.test -s -v new_test.py
