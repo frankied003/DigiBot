@@ -37,8 +37,7 @@ class NewShoePage(BasePage):
                 html = self.driver.page_source
                 soup = BeautifulSoup(html, 'lxml')
                 try:
-                    regexp = "%s.*%s" % (keyword1, keyword1)
-                    keywordLink = soup.find('image:title', text=re.compile(regexp))
+                    keywordLink = soup.find('image:title', text=re.compile(keyword1))
                     print(keywordLink.text)
                     url = keywordLink.parent.parent
                     keywordLink = url.find('loc').text

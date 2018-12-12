@@ -55,7 +55,7 @@ class ProductPage(BasePage):
         domain = self.driver.execute_script("return document.domain")
         variantDict = self.pullVariantsShoe()
         variant = variantDict[str(size)]
-        self.driver.get("https://" + domain + "/cart/" + str(variant) + ":1")
+        self.driver.get("http://" + domain + "/cart/" + str(variant) + ":1")
         print("Added to cart")
 
     #if an item is out of stock, it refreshes every monitor delay you set in seconds, until back in stock

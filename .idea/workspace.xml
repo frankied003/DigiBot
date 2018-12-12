@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9b4e833-d61e-407d-ad0b-d319d502e7fa" name="Default Changelist" comment="" />
+    <list default="true" id="e9b4e833-d61e-407d-ad0b-d319d502e7fa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Base/selenium_driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/Base/selenium_driver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Json_Files/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/Json_Files/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/shop/checkout_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/shop/checkout_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/shop/new_page_two.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/shop/new_page_two.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/shop/product_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/shop/product_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/shop/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/shop/automation.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/shop/new_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/shop/new_test.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,58 +21,58 @@
     <session id="1577828389">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="54" />
+          <entry key="project.closed" value="56" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="9" />
-          <entry key="project.open.time.6" value="24" />
+          <entry key="project.open.time.6" value="26" />
           <entry key="project.open.time.7" value="13" />
           <entry key="project.open.time.8" value="5" />
-          <entry key="project.opened" value="55" />
+          <entry key="project.opened" value="57" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="4" />
-          <entry key="json" value="1" />
+          <entry key="json" value="2" />
           <entry key="lastfailed" value="1" />
           <entry key="log" value="5" />
-          <entry key="py" value="133" />
+          <entry key="py" value="136" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="4" />
-          <entry key="JSON" value="1" />
+          <entry key="JSON" value="2" />
           <entry key="Log" value="5" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="133" />
+          <entry key="Python" value="136" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="67" />
-          <entry key="json" value="1181" />
-          <entry key="py" value="23777" />
+          <entry key="json" value="1562" />
+          <entry key="py" value="24085" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="67" />
-          <entry key="JSON" value="1181" />
-          <entry key="Python" value="23777" />
+          <entry key="JSON" value="1562" />
+          <entry key="Python" value="24085" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Pages/shop/product_page.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Base/selenium_driver.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="49" column="34" lean-forward="true" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
+            <state relative-caret-position="-806">
+              <caret line="156" column="11" lean-forward="true" selection-start-line="156" selection-start-column="11" selection-end-line="156" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -72,7 +81,7 @@
         <entry file="file://$PROJECT_DIR$/Base/webdriverfactory.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="595">
-              <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
+              <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="34" />
               <folding>
                 <element signature="e#204#220#0" expanded="true" />
               </folding>
@@ -81,33 +90,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Captcha/Fetch.py">
+        <entry file="file://$PROJECT_DIR$/Pages/shop/new_page_two.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="142">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tests/shop/new_test.py">
+        <entry file="file://$PROJECT_DIR$/Pages/shop/product_page.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="44" selection-start-line="44" selection-end-line="44" />
-              <folding>
-                <element signature="e#46#93#0" expanded="true" />
-                <marker date="1544550576072" expanded="true" signature="807:1058" ph="..." />
-                <marker date="1544550576072" expanded="true" signature="1053:1058" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Captcha/LoginChrome.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+            <state relative-caret-position="-11">
+              <caret line="55" column="45" lean-forward="true" selection-start-line="55" selection-start-column="45" selection-end-line="55" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -115,14 +110,28 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Pages/shop/checkout_page.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1071">
-              <caret line="70" column="104" selection-start-line="70" selection-start-column="104" selection-end-line="70" selection-end-column="104" />
+            <state relative-caret-position="-391">
+              <caret line="82" column="95" selection-start-line="82" selection-start-column="95" selection-end-line="82" selection-end-column="95" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
-                <marker date="1544550522787" expanded="true" signature="433:499" ph="..." />
-                <marker date="1544550522787" expanded="true" signature="1473:1479" ph="..." />
-                <marker date="1544550522787" expanded="true" signature="1501:1506" ph="..." />
-                <marker date="1544550522787" expanded="true" signature="1501:1730" ph="..." />
+                <marker date="1544633841469" expanded="true" signature="482:548" ph="..." />
+                <marker date="1544633841469" expanded="true" signature="1553:1559" ph="..." />
+                <marker date="1544633841469" expanded="true" signature="1581:1586" ph="..." />
+                <marker date="1544633841469" expanded="true" signature="1581:1810" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tests/shop/new_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="36" column="44" lean-forward="true" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+              <folding>
+                <element signature="e#46#93#0" expanded="true" />
+                <marker date="1544633841453" expanded="true" signature="807:1058" ph="..." />
+                <marker date="1544633841453" expanded="true" signature="1053:1058" ph="..." />
               </folding>
             </state>
           </provider>
@@ -146,11 +155,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Json_Files/config.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+            <state relative-caret-position="119">
+              <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -204,21 +213,21 @@
         <option value="$PROJECT_DIR$/Captcha.html" />
         <option value="$PROJECT_DIR$/Captcha/Server.py" />
         <option value="$PROJECT_DIR$/Captcha/Harvester.py" />
-        <option value="$PROJECT_DIR$/Base/selenium_driver.py" />
         <option value="$PROJECT_DIR$/Captcha/Fetch.py" />
-        <option value="$PROJECT_DIR$/Pages/shop/product_page.py" />
         <option value="$PROJECT_DIR$/Pages/home/login_page.py" />
-        <option value="$PROJECT_DIR$/Pages/shop/new_page_two.py" />
         <option value="$PROJECT_DIR$/Base/webdriverfactory.py" />
+        <option value="$PROJECT_DIR$/Captcha/LoginChrome.py" />
+        <option value="$PROJECT_DIR$/Pages/shop/product_page.py" />
+        <option value="$PROJECT_DIR$/Pages/shop/new_page_two.py" />
+        <option value="$PROJECT_DIR$/Base/selenium_driver.py" />
         <option value="$PROJECT_DIR$/Pages/shop/checkout_page.py" />
         <option value="$PROJECT_DIR$/Tests/shop/new_test.py" />
-        <option value="$PROJECT_DIR$/Captcha/LoginChrome.py" />
         <option value="$PROJECT_DIR$/Json_Files/config.json" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="186" />
+    <option name="x" value="785" />
     <option name="y" value="-24" />
     <option name="width" value="980" />
     <option name="height" value="990" />
@@ -243,6 +252,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -250,11 +260,26 @@
               <item name="DigiBot" type="b2602c69:ProjectViewProjectNode" />
               <item name="DigiBot" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DigiBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DigiBot" type="462c0819:PsiDirectoryNode" />
+              <item name="Base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DigiBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DigiBot" type="462c0819:PsiDirectoryNode" />
+              <item name="Pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DigiBot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DigiBot" type="462c0819:PsiDirectoryNode" />
+              <item name="Pages" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -378,7 +403,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13417052" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13417052" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -389,8 +414,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.87838733" visible="true" weight="0.21702127" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.12161269" side_tool="true" visible="true" weight="0.21702127" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.8889623" visible="true" weight="0.48368794" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.11103767" side_tool="true" weight="0.21702127" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32907802" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -528,24 +553,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Base/selenium_driver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Pages/home/login_page.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Pages/shop/new_page_two.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="48" column="41" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -556,20 +567,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pages/shop/product_page.py">
+    <entry file="file://$PROJECT_DIR$/Captcha/LoginChrome.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="49" column="34" lean-forward="true" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Base/webdriverfactory.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
-          <folding>
-            <element signature="e#204#220#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="394">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -580,35 +581,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tests/shop/new_test.py">
+    <entry file="file://$PROJECT_DIR$/Base/webdriverfactory.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        <state relative-caret-position="595">
+          <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="34" />
           <folding>
-            <element signature="e#46#93#0" expanded="true" />
-            <marker date="1544550576072" expanded="true" signature="807:1058" ph="..." />
-            <marker date="1544550576072" expanded="true" signature="1053:1058" ph="..." />
+            <element signature="e#204#220#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Captcha/LoginChrome.py">
+    <entry file="file://$PROJECT_DIR$/Captcha/Server.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        <state relative-caret-position="272">
+          <caret line="18" column="59" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Base/selenium_driver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-806">
+          <caret line="156" column="11" lean-forward="true" selection-start-line="156" selection-start-column="11" selection-end-line="156" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/shop/new_page_two.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/shop/new_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="36" column="44" lean-forward="true" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+          <folding>
+            <element signature="e#46#93#0" expanded="true" />
+            <marker date="1544633841453" expanded="true" signature="807:1058" ph="..." />
+            <marker date="1544633841453" expanded="true" signature="1053:1058" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pages/shop/product_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11">
+          <caret line="55" column="45" lean-forward="true" selection-start-line="55" selection-start-column="45" selection-end-line="55" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Pages/shop/checkout_page.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="70" column="104" selection-start-line="70" selection-start-column="104" selection-end-line="70" selection-end-column="104" />
+        <state relative-caret-position="-391">
+          <caret line="82" column="95" selection-start-line="82" selection-start-column="95" selection-end-line="82" selection-end-column="95" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
-            <marker date="1544550522787" expanded="true" signature="433:499" ph="..." />
-            <marker date="1544550522787" expanded="true" signature="1473:1479" ph="..." />
-            <marker date="1544550522787" expanded="true" signature="1501:1506" ph="..." />
-            <marker date="1544550522787" expanded="true" signature="1501:1730" ph="..." />
+            <marker date="1544633841469" expanded="true" signature="482:548" ph="..." />
+            <marker date="1544633841469" expanded="true" signature="1553:1559" ph="..." />
+            <marker date="1544633841469" expanded="true" signature="1581:1586" ph="..." />
+            <marker date="1544633841469" expanded="true" signature="1581:1810" ph="..." />
           </folding>
         </state>
       </provider>
@@ -620,17 +652,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Captcha/Server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" column="59" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Json_Files/config.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="27" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+        <state relative-caret-position="119">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
         </state>
       </provider>
     </entry>

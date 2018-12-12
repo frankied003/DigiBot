@@ -1,14 +1,15 @@
 {
-    "store": "packershoes",
-    "keywords": ["PHARRELL", "V2"],
+    "store": "shop.havenshop",
+    "keywords": ["UltraBoost", "Black"],
     "size": "9",
-    "monitorDelay": 3,
-    "email": "fdigiaco@stevens.edu",
-    "firstName": "Frank",
-    "lastName": "DiGiacomo",
+    "monitorDelay": 5,
+    "email": "EXAMPLE@stevens.edu",
+    "firstName": "EXAMPLE",
+    "lastName": "ADAM",
     "streetAddress": "111 test lane",
     "apartmentNumber": " ",
     "state": "New York",
+    "stateABV": "NY",
     "city": "Carmel",
     "zipCode": "10512",
     "phoneNumber": "9141231234",
@@ -17,5 +18,6 @@
     "expMonth": "08",
     "expYear": "22",
     "cvv": "123",
-    "headlessBrowser": "true"
+    "headlessBrowser": "true",
+    "sites": "packershoes, havenshop,"
 }

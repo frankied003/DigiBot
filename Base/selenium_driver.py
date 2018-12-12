@@ -155,6 +155,7 @@ class SeleniumDriver():
         Check if element is present -> MODIFIED
         Either provide element or a combination of locator and locatorType
         """
+        self.driver.implicitly_wait(1)
         try:
             if locator:  # This means if locator is not empty
                 element = self.getElement(locator, locatorType)
@@ -168,6 +169,7 @@ class SeleniumDriver():
                 return False
         except:
             print("Element not found")
+            self.driver.implicitly_wait(10)
             return False
 
     def isElementDisplayed(self, locator="", locatorType="id", element=None):

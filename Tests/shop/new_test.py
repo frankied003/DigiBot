@@ -38,7 +38,7 @@ class NewPageTests(unittest.TestCase):
         self.pp.checkForStock(monitorDelay=data["monitorDelay"])
         self.cp.checkWaitingInQueue()
         self.cp.enteringShipping(data["email"], data["firstName"], data["lastName"], data["streetAddress"], data["apartmentNumber"], data["state"],
-                                 data["city"], data["zipCode"], data["phoneNumber"])
+                                 data["stateABV"], data["city"], data["zipCode"], data["phoneNumber"])
         self.cp.enteringPayment(data["nameOnCard"], data["cardNumber"], data["expMonth"], data["expYear"], data["cvv"])
 
 

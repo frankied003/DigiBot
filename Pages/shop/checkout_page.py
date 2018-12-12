@@ -6,6 +6,8 @@ from Captcha.Fetch import main as getToken
 import time
 from selenium.webdriver.support.select import Select
 import json
+from selenium.webdriver.common.keys import Keys
+
 
 class CheckoutPage(BasePage):
 
@@ -38,6 +40,7 @@ class CheckoutPage(BasePage):
     _cvv = "verification_value"
     _completeOrderBtn = ".step__footer__continue-btn .btn__content" #css
     _webScroll = "step__footer__previous-link-content"
+    _salesFinal = "salesFinal"
 
     def queueBypass(self):
         checkoutToken = self.driver.execute_script("return DF_CHECKOUT_TOKEN")   # still working on this, supposed to bypass queue if there is one
@@ -77,7 +80,7 @@ class CheckoutPage(BasePage):
         return token
 
     #enters shipping
-    def enteringShipping(self, email, firstName, lastName, address, apartment, state, city, zipcode, phone):
+    def enteringShipping(self, email, firstName, lastName, address, apartment, state, stateABV, city, zipcode, phone):
         Present = self.checkForCaptcha()
         token = None
         if Present is True:
@@ -91,12 +94,17 @@ class CheckoutPage(BasePage):
         self.webScroll(self._webScroll, locatorType='class')
         self.sendKeys(apartment, self._apartment, locatorType='id')
 
-        select = Select(self.driver.find_element_by_id(self._state))
-        select.select_by_value(state)
+        try:
+            select = Select(self.driver.find_element_by_id(self._state))
+            select.select_by_value(state)
+        except:
+            select = Select(self.driver.find_element_by_id(self._state))
+            select.select_by_value(stateABV)
 
         self.sendKeys(city, locator=self._city, locatorType='id')
         self.sendKeys(zipcode, locator=self._zip, locatorType='id')
         self.sendKeys(phone, locator=self._phone, locatorType='id')
+        self.elementClick(self._salesFinal,locatorType='id')
 
         if Present is True:
             # Posting the recaptcha validation token in the g-recaptcha-reponse text box
