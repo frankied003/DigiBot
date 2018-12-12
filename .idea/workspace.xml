@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9b4e833-d61e-407d-ad0b-d319d502e7fa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Base/selenium_driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/Base/selenium_driver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Json_Files/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/Json_Files/config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pages/shop/checkout_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/shop/checkout_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pages/shop/new_page_two.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/shop/new_page_two.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pages/shop/product_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/shop/product_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/shop/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/shop/automation.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/shop/new_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/shop/new_test.py" afterDir="false" />
-    </list>
+    <list default="true" id="e9b4e833-d61e-407d-ad0b-d319d502e7fa" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +12,7 @@
     <session id="1577828389">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="56" />
+          <entry key="project.closed" value="57" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
@@ -55,12 +46,14 @@
           <entry key="html" value="67" />
           <entry key="json" value="1562" />
           <entry key="py" value="24085" />
+          <entry key="txt" value="49" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="67" />
           <entry key="JSON" value="1562" />
+          <entry key="PLAIN_TEXT" value="49" />
           <entry key="Python" value="24085" />
         </counts>
       </usages-collector>
@@ -158,8 +151,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Json_Files/config.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+            <state relative-caret-position="136">
+              <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -397,6 +390,14 @@
       <option name="presentableId" value="Default" />
       <updated>1533571911524</updated>
     </task>
+    <task id="LOCAL-00001" summary="Updated Code for more website compatibility">
+      <created>1544634271128</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1544634271128</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -424,6 +425,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated Code for more website compatibility" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Code for more website compatibility" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Tests/courses/register_courses_multible_data_set.py" />
@@ -654,8 +659,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Json_Files/config.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        <state relative-caret-position="136">
+          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
         </state>
       </provider>
     </entry>
