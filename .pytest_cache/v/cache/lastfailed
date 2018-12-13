@@ -1,6 +1,0 @@
-{
-  "Tests/shop/new_test.py::NewPageTests::test_addToCart": true,
-  "Tests/shop/new_test.py::NewPageTests::test_addedToCart": true,
-  "Tests/shop/new_test.py::NewPageTests::test_productData": true,
-  "Tests/shop/new_test.py::NewPageTests::test_validLogin": true
-}
