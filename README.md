@@ -19,6 +19,13 @@ Tests Folder - This is what file I run to run the entire code: new_test.py is th
 Utilities Folder - This is where all the logs and debugging happens to make speed up problem solving.
 
 To Run:
-I simply navigate to the folder where the new_test.py file is and type into the terminal
-  
-  py.test -s -v new_test.py
+1. Open the terminal and run as administrator
+2. Navigate to the captcha folder
+3. Type in: python server.py
+4. The server should start
+5. Navigate to the folder where the new_test.py file is
+6. Type in: py.test -s -v new_test.py
+
+To Modify:
+1. Navigate to the json file called config.json
+2. Edit with the info you want
