@@ -29,3 +29,5 @@ To Run:
 To Modify:
 1. Navigate to the json file called config.json
 2. Edit with the info you want
+
+CURRENTLY UNABLE TO RUN ON OTHER COMPUTERS, GOTTA FIX THIS
