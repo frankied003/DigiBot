@@ -1,6 +1,8 @@
 # DigiBot
 Beginner Shopify Bot
 
+Video: https://youtu.be/Mf9ebm29f9c
+
 Base Folder - Sets up the selenium software to use throughout the code, such as shorcuts and it also
 starts up the chrome driver instance.
 
