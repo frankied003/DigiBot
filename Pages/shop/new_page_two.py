@@ -1,4 +1,4 @@
-#this file searches for products on the site using the xml page all Shopify sites have except yeezysupply and kith which use .atam
+#this file searches for products on the site using the xml page all Shopify sites have except yeezysupply and kith which use .atom
 from Utilities import custom_logger as cl
 from Base.basepage import BasePage
 import logging
